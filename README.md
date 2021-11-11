@@ -10,6 +10,6 @@ You need to create a profile for log in and see the data. The program is working
 
 ## Features
 
-- 4 themes | green, blue, yellow, red
+- 4 themes (green, blue, yellow, red)
 - password changing option
 - time lock (5 min)
