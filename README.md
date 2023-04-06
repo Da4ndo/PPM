@@ -1,12 +1,18 @@
+<img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" /> <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" />
+
 # Private Password Manager
 
 Version 0.1.6
 
-This is a program for storing your passwords. Avaible columns `place`, `username`, `password`, `comment`. The program is auto updating itself. This project is created for a small amount of people and you can't just run it. You need to activate it. So, sorry if you read this and you don't know me.
+You can use this application to store your passwords. Place, username, password, and remark columns are available. The software automatically updates itself. This endeavor was designed for a small group of individuals, so you cannot simply manage it. You must first activate the software before downloading and using it; otherwise, it won't function.
+
+Even though it's difficult, you can try to bypass it or reverse-engineer it. I am eager to see the outcomes. 
 
 ## Working
 
-You need to create a profile for log in and see the data. The program is working with your password and hwid (Hardware Identification). If the data file is moved to another computer it will be destroyed.
+You need to first create a profile in order to access the app.
+The app uses your hwid and password (Hardware Identification).
+A data file becomes useless when it is moved to another machine. 
 
 ## Features
 
